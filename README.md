@@ -1,4 +1,6 @@
 # SCIVIZ AI
+[![demo](https://img.youtube.com/vi/qjqX0dfOb14/0.jpg)](https://youtu.be/qjqX0dfOb14?si=XRTtT60pw9LWIp8w)
+
 
 ## Inspiration
 This project was inspired by our own experience. When we took the database course, we struggled to understand the concept of the B+ tree. It was difficult to grasp how it works and how elements are inserted into it. We searched for videos on YouTube, but often couldn’t find explanations that covered the edge cases.
