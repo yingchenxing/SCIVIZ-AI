@@ -2,7 +2,7 @@
 [![demo](https://img.youtube.com/vi/qjqX0dfOb14/0.jpg)](https://youtu.be/qjqX0dfOb14?si=XRTtT60pw9LWIp8w)
 
 ## Demo
-<img width="403" alt="1744038393591" src="https://github.com/user-attachments/assets/1a6d3470-9fea-4a14-82f6-41c140a4c361" />
+<img width="403" alt="1744038393591" src="https://github.com/user-attachments/assets/79c9a4c5-8476-441d-bc87-1da1cc41f806" />
 <img width="403" alt="1744038393591" src="https://github.com/user-attachments/assets/3c616871-80e8-46f9-a3bc-853a7dfd2559" />
 <img width="403" alt="1744038405283" src="https://github.com/user-attachments/assets/78f898a4-076f-4b35-a4ce-4307584fc2aa" />
 <img width="403" alt="1744038411559" src="https://github.com/user-attachments/assets/5b11bac7-de13-492c-becb-5312f4f3c6ee" />
