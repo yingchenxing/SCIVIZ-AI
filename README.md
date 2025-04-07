@@ -7,6 +7,10 @@
 <img width="403" alt="1744038405283" src="https://github.com/user-attachments/assets/78f898a4-076f-4b35-a4ce-4307584fc2aa" />
 <img width="403" alt="1744038411559" src="https://github.com/user-attachments/assets/5b11bac7-de13-492c-becb-5312f4f3c6ee" />
 
+## Link
+- [backend](https://github.com/yingchenxing/hoohack2025_backend)
+- [frontend](https://github.com/yingchenxing/hoohack2025_frontend)
+
 
 ## Inspiration
 This project was inspired by our own experience. When we took the database course, we struggled to understand the concept of the B+ tree. It was difficult to grasp how it works and how elements are inserted into it. We searched for videos on YouTube, but often couldn’t find explanations that covered the edge cases.
